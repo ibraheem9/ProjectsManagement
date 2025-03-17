@@ -14,7 +14,7 @@ Follow these instructions to set up the project on your local machine.
 
 Ensure you have the following installed before proceeding:
 
-- **PHP** >= 8.0
+- **PHP** >= 8.2
 - **Composer**
 - **MySQL** (or compatible database)
 - **Laravel 12**
